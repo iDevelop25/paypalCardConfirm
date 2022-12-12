@@ -9,7 +9,7 @@ A simple card confirm responsive
 
 
 ## Demo
-If you want to see the demo of this proyect deployed, you can visit [Card Confirm](https://idev-simple-searchbar-html-css.netlify.app/)
+If you want to see the demo of this proyect deployed, you can visit [Card Confirm](https://idev-pay-card-confirm-html-css.netlify.app/)
 
 ## Preview
 #
